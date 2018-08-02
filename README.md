@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/Hemesh-Unka/waylo-api.svg?style=svg)](https://circleci.com/gh/Hemesh-Unka/waylo-api)
+
 # waylo-api
 
 ## Description
