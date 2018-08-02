@@ -38,4 +38,4 @@ jobs:
       # run tests!
       - run:
           name: Unit Tests
-          command: npm run test:coverage
+          command: npm run test:cov
